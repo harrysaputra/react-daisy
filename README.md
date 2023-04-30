@@ -1,6 +1,6 @@
 # react-daisy
 
-Deadly simple template to start react with vite + tailwindcss + daisyUI
+Deadly simple template to start react with vite + tailwindcss + daisyUI + Heroicons!
 
 ## installation
 
