@@ -6,9 +6,9 @@ Deadly simple template to start react with vite + tailwindcss + daisyUI
 
 ```
 npm install -g degit
-degit harrysaputra/react-daisy
+degit harrysaputra/react-daisy my-new-project
 ```
 or
 ```
-npx degit harrysaputra/react-daisy
+npx degit harrysaputra/react-daisy my-new-project
 ```
